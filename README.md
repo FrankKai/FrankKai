@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 会写点前端 🇨🇳
-
-### 也会点别的 💻
+### 会写点前端 💻
 
 

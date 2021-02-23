@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### 会写点前端 💻
 
 
-商业智能业务线大量招人 人数翻一番 前端，UI，Java，安卓，测试，Go ，产品都有空缺！
+商业智能业务线大量招人，人数翻一番。
+**前端，UI，Java，安卓，测试，Go ，产品都有空缺！**
 
 简历发我邮箱即可：gaokai20100801@gmail.com 
 

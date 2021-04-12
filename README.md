@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 涂鸦智能业务线大量招人
-**前端，UI，Java，安卓，测试，Go ，产品都有空缺！**
+欢迎关注我的前端公众号：大大大前端
 
-简历发我邮箱即可：gaokai20100801@gmail.com 
-
-微信了解详情：gaokai20100801
+不定期推送优质前端好文~

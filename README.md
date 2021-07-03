@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ### 会写点前端 💻
-
-
-前端公众号：大大大前端
-
-不定期推送优质前端好文~
